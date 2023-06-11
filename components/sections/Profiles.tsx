@@ -58,7 +58,7 @@ export default function Profiles() {
               target="_blank"
               rel="noreferrer"
             >
-              github.com/username
+              github.com/dhimankamal
             </a>
           </p>
         </div>
