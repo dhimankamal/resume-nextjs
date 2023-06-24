@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Profiles() {
+export default function SocialProfiles() {
   return (
     <div className="lg:flex lg:justify-between grid-3 xl:grid-3 lg:col-span-3 gap-4 mt-5 pt-4 border-t-2 border-gray-300">
       <div className="flex items-center">
