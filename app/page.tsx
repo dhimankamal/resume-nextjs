@@ -19,9 +19,47 @@ export default function Home() {
             {/* Profile */}
             <h3>Profile</h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-              semper sapien ligula, vestibulum eleifend erat pellentesque quis.
-              Suspendisse potenti. Mauris et malesuada nisl, eu tempus nisi.
+              I am a seasoned front-end developer with over 3 years of
+              experience, currently working at Ellocent Labs IT Solutions. My
+              expertise lies in creating dynamic and intuitive websites with a
+              strong focus on user experience. With a solid foundation in HTML5,
+              CSS3, and JavaScript, I have expanded my skill set to include
+              various modern frameworks and libraries.
+              <br />
+              <br />
+              I have extensive experience working with technologies such as
+              Tailwind CSS, Svelte, SvelteKit, Next.js, and React.js. These
+              tools have allowed me to develop interactive and visually
+              appealing websites for clients across different industries,
+              including real estate and digital agencies. I have also worked on
+              integrating APIs like GraphQL, enhancing the functionality and
+              versatility of the websites I create.
+              <br />
+              <br />
+              In addition to my front-end development skills, I have recently
+              ventured into the realm of chat applications. Using the latest
+              Next.js app directory, TypeScript, Tailwind CSS, WebSocket, and
+              Ant Design (Antd), I am now proficient in developing chat
+              applications similar to WhatsApp. This has further expanded my
+              technical repertoire and allows me to create real-time
+              communication platforms that offer seamless user experiences.
+              <br />
+              <br />
+              Throughout my career, I have consistently delivered high-quality
+              work and have earned a reputation for being a reliable and skilled
+              developer. I thrive in collaborative environments, leveraging my
+              technical expertise and problem-solving abilities to contribute to
+              successful project outcomes. My dedication to staying up to date
+              with the latest industry trends and technologies ensures that I
+              can provide innovative solutions to meet the evolving needs of
+              clients and users.
+              <br />
+              <br />I am passionate about front-end development and always
+              strive to create websites and applications that not only meet the
+              functional requirements but also leave a lasting impression on
+              users. I am excited to continue growing in my role at Ellocent
+              Labs IT Solutions and contribute to cutting-edge projects that
+              push the boundaries of web development.
             </p>
             {/* Skills */}
             <h3 className="mt-12 lg:mt-16">Skills</h3>
